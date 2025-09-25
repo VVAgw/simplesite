@@ -1,0 +1,3 @@
+bboard/__pycache__/
+bboard/migrations/__pycache__/
+db.sqlite3
